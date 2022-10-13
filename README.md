@@ -30,3 +30,17 @@ I have created a informational bot named "Interior_Designing" using Html and ser
 -Interior_Designing ChatBot useful for both learners and explorers.
 - Main concept that my bot gives;About Interior_Designing,how it works, history, full forms and detailed view of Interior_Designing.
 ## Screenshorts:
+ <img width="1033" alt="screenshot1" src="https://user-images.githubusercontent.com/113116997/195605325-d0fbeff0-db37-4cc1-be2b-cf379926bb62.png">
+ <img width="1031" alt="screenshot2" src="https://user-images.githubusercontent.com/113116997/195605420-1cf54fd1-b15b-472b-8934-4e5b17ae7bc8.png">
+ <img width="1049" alt="screenshot3" src="https://user-images.githubusercontent.com/113116997/195605456-6c9e1fb1-81eb-439e-955f-3368fb53d0a1.png">
+ <img width="1013" alt="screenshot4" src="https://user-images.githubusercontent.com/113116997/195605514-0b44a389-e073-43d9-9be4-8292a9a951eb.png">
+ <img width="996" alt="screenshot5" src="https://user-images.githubusercontent.com/113116997/195605563-f25636c8-4ee8-4bcc-8795-e1ab197cf4be.png">
+ <img width="1010" alt="screenshot6" src="https://user-images.githubusercontent.com/113116997/195605615-1a749499-1f34-4708-839a-efec6b013081.png">
+ <img width="1013" alt="screenshot7" src="https://user-images.githubusercontent.com/113116997/195605956-7e335ded-b1b6-49b0-af0f-97f191374053.png">
+ <img width="1000" alt="screenshot8" src="https://user-images.githubusercontent.com/113116997/195606220-c246253a-7a66-4743-93bd-ed359451dbfa.png">
+ <img width="977" alt="screenshot9" src="https://user-images.githubusercontent.com/113116997/195606431-cf808b05-0901-4c72-a815-fc87a864ef4f.png">
+ <img width="1025" alt="screenshot10" src="https://user-images.githubusercontent.com/113116997/195606633-b8b34221-d770-49f8-a4c6-8569ab0d1381.png">
+ <img width="1034" alt="screenshot11" src="https://user-images.githubusercontent.com/113116997/195606942-6c4a8a45-d61a-41b5-80cb-443f516414d0.png">
+ <img width="955" alt="screenshot12" src="https://user-images.githubusercontent.com/113116997/195607241-3a5a1f3b-86e5-4368-996b-00973676e0af.png">
+ <img width="1023" alt="screenshot13" src="https://user-images.githubusercontent.com/113116997/195607483-01b07ba6-688a-4bb8-8f33-cf665c94b3fe.png">
+ <img width="1027" alt="screenshot14" src="https://user-images.githubusercontent.com/113116997/195607609-ec503e39-bd7b-4770-bf72-0f18e62003ad.png">
