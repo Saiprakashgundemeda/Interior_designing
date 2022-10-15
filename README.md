@@ -30,7 +30,7 @@ I have created a informational bot named "Interior_Designing" using Html and ser
 -Interior_Designing ChatBot useful for both learners and explorers.
 - Main concept that my bot gives;About Interior_Designing,how it works, history, full forms and detailed view of Interior_Designing.
 ## Screenshorts:
- <img width="1033" alt="screenshot1" src="https://user-images.githubusercontent.com/113116997/195605325-d0fbeff0-db37-4cc1-be2b-cf379926bb62.png">
+ <img width="1061" alt="ss1" src="https://user-images.githubusercontent.com/113116997/195968253-c891920b-86b5-4f47-bfc2-509f54d9f285.png">
  <img width="1042" alt="screenshotchatbot" src="https://user-images.githubusercontent.com/113116997/195968168-9217fdbc-faa5-4a61-a240-03653444ab00.png">
  <img width="1042" alt="ssnew" src="https://user-images.githubusercontent.com/113116997/195968177-2ef9def6-51d1-46fa-b168-91d2b3bf033e.png">
  <img width="1031" alt="screenshot2" src="https://user-images.githubusercontent.com/113116997/195605420-1cf54fd1-b15b-472b-8934-4e5b17ae7bc8.png">
